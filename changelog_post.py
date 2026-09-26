@@ -22,6 +22,7 @@ import subprocess
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 
 BASE = os.path.dirname(os.path.abspath(__file__))
@@ -137,6 +138,34 @@ def resolve_discord_channel_id(token: str, channel_name: str) -> str:
         f"Seen: {', '.join(seen[:20]) or 'nothing'}")
 
 
+def resolve_discord_user_mention(token: str, username: str) -> str:
+    """Return a clickable <@id> mention for a guild member.
+
+    Falls back to plain @name text if the member can't be resolved.
+    """
+    headers = _discord_headers(token)
+    try:
+        guilds = _get(f"{DISCORD_API}/users/@me/guilds", headers,
+                      "discord guilds")
+    except DestinationError:
+        return f"@{username}"
+    for g in guilds if isinstance(guilds, list) else []:
+        try:
+            found = _get(
+                f"{DISCORD_API}/guilds/{g.get('id', '')}/members/search?"
+                + urllib.parse.urlencode({"query": username, "limit": "5"}),
+                headers, "discord member search")
+        except DestinationError:
+            continue
+        for m in found if isinstance(found, list) else []:
+            u = m.get("user", {}) or {}
+            if str(u.get("username", "")).lower() == username.lower() \
+                    and u.get("id"):
+                return f"<@{u['id']}>"
+    log(f"discord: could not resolve @{username}, using plain text")
+    return f"@{username}"
+
+
 def post_discord(token: str, channel_id: str, text: str) -> bool:
     body = json.dumps({"content": text[:2000]}).encode()
     _post(f"{DISCORD_API}/channels/{channel_id}/messages",
@@ -246,11 +275,8 @@ def main() -> int:
             "value used by the other Fan Edit Fan Club automations.")
         return 1
 
-    date_label = now.astimezone(
-        dt.timezone(dt.timedelta(hours=-4))).strftime("%b %d")
-    lines = ["**Fan Edit Fan Club \u2014 Daily Update \U0001f916** "
-             f"({date_label})",
-             ""]
+    mention = resolve_discord_user_mention(token, "FanEditFanClub")
+    lines = [f"**{mention} Updates**", ""]
     for _, text in new:
         lines.append(f"\u2022 {text}")
     msg = "\n".join(lines)[:1950]
