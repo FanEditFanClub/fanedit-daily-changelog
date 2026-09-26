@@ -276,7 +276,7 @@ def main() -> int:
         return 1
 
     mention = resolve_discord_user_mention(token, "FanEditFanClub")
-    lines = [f"**{mention} Updates**", ""]
+    lines = [f"**{mention} Updates \U0001f4e2**"]
     for _, text in new:
         lines.append(f"\u2022 {text}")
     msg = "\n".join(lines)[:1950]
