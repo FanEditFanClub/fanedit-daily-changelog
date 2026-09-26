@@ -9,3 +9,4 @@
 {"ts": "2026-09-26T04:48:00+00:00", "text": "Renamed the monthly dead-shortcut cleanup to 'Collection Cleanup' and moved its run to midnight on the 1st of each month."}
 {"ts": "2026-09-26T04:48:00+00:00", "text": "Renamed the weekly access requests to 'Auto Request Access to Collection Files' and moved its run to Mondays at 6:30 AM ET."}
 {"ts": "2026-09-26T04:48:00+00:00", "text": "Renamed the Weekly Fan Edit Catalog to 'The Workprint and Fanedit Appreciation Society Facebook Group Scraper' (schedule unchanged, Mondays 9 AM ET)."}
+{"ts": "2026-09-26T13:41:45Z", "text": "Fixed the 9am collection notifier's X posts: Buffer rejected a 276-char post as over 280, so X threads now split at a safer 240-char limit; this morning's 6-file batch was reposted to X (3 posts)."}
