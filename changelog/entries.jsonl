@@ -17,3 +17,4 @@
 {"ts": "2026-09-27T07:07:00Z", "text": "Website: refreshed the homepage header GIF (v2) — removed the dark band behind the title, the Fan Edit Fan Club title now sits directly on the collage with outline/shadow."}
 {"ts": "2026-09-27T16:19:26Z", "text": "Website: brightened the homepage header GIF (v3) — Sites dims the banner, so the brightness is now baked into the image; white title, brighter collage."}
 {"ts": "2026-09-27T16:22:16Z", "text": "Website: toughened the Fan Editors X list embed — it now auto-retries loading up to 3 times and shows a Try-again fallback card instead of a blank space when X flakes."}
+{"ts": "2026-09-27T17:00:53Z", "text": "Website: switched off Google Sites readability dimmer on the homepage header — the cover GIF now shows at full brightness with a white title."}
