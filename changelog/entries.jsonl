@@ -18,3 +18,4 @@
 {"ts": "2026-09-27T16:19:26Z", "text": "Website: brightened the homepage header GIF (v3) — Sites dims the banner, so the brightness is now baked into the image; white title, brighter collage."}
 {"ts": "2026-09-27T16:22:16Z", "text": "Website: toughened the Fan Editors X list embed — it now auto-retries loading up to 3 times and shows a Try-again fallback card instead of a blank space when X flakes."}
 {"ts": "2026-09-27T17:00:53Z", "text": "Website: switched off Google Sites readability dimmer on the homepage header — the cover GIF now shows at full brightness with a white title."}
+{"ts": "2026-10-06T15:11:46Z", "text": "Reddit pipeline migrated off RSS (dead 2026-11-13): daily 5pm ET browser scan publishes the listing JSON; digest reads it; posters relay each item 24h after its Reddit timestamp."}
