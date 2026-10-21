@@ -64,3 +64,5 @@
 {"ts": "2026-10-21T15:52:02Z", "text": "Discord collection DM now says over 5,000 files."}
 {"ts": "2026-10-21T15:38:00Z", "text": "Gmail link-request draft and Facebook Messenger FAQ auto reply now say over 5,000 files."}
 {"ts": "2026-10-21T19:49:21Z", "text": "FEFC Collection update: Spotlight search with Optimus, Home clip tiles and ambient sound, folder sound effects and Back sound, new genre tiles, reordered top bar, audio playback for MP3s, A–Z letter headers, more game poster art, Serenity/GoldenEye fixes, and a request-access prompt for private libraries."}
+{"ts": "2026-10-21T13:40:00Z", "text": "Fixed the 9am collection notifier to honor announcement preconditions: migrated shortcuts are no longer posted as new files. This morning's misfire was cleaned up across Discord (226 posts), X (25), Facebook Page (1), and Threads (1)."}
+{"ts": "2026-10-21T18:28:00Z", "text": "Collection: removed the 'Lost - In The Detail: Intermission - Bad Twin' Parts 41-48 MP3 audiobook files (audio files that didn't belong in the video collection); tonight's resync drops them from the app."}
