@@ -58,3 +58,4 @@
 {"ts": "2026-10-21T08:01:00Z", "text": "FEFC Collection: smoother intro on iPhone/iOS (lighter effects, clips wait until the intro ends)."}
 {"ts": "2026-10-21T08:07:00Z", "text": "FEFC Collection: file counts now include only unique video files (Main Collection 11,258)."}
 {"ts": "2026-10-21T08:26:00Z", "text": "FEFC Collection: every outer Home tile now rotates random clips every few seconds, and the intro flashes are lighter on iPhone."}
+{"ts": "2026-10-21T08:29:00Z", "text": "FEFC Collection: stricter unique-video counts (Main Collection 11,013) and tile count text that no longer overflows."}
