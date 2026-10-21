@@ -61,3 +61,5 @@
 {"ts": "2026-10-21T08:29:00Z", "text": "FEFC Collection: stricter unique-video counts (Main Collection 11,013) and tile count text that no longer overflows."}
 {"ts": "2026-10-21T13:37:00Z", "text": "FEFC Collection: Main Collection count now excludes To Be Catalogued (1,352 collections, 5,155 files)."}
 {"ts": "2026-10-21T13:38:00Z", "text": "Collection size wording updated to 'over 5,000 files' in Read First (app and Google Doc) and the Keep social request template."}
+{"ts": "2026-10-21T15:52:02Z", "text": "Discord collection DM now says over 5,000 files."}
+{"ts": "2026-10-21T15:38:00Z", "text": "Gmail link-request draft and Facebook Messenger FAQ auto reply now say over 5,000 files."}
