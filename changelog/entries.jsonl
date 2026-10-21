@@ -41,3 +41,6 @@
 {"ts":"2026-10-21T06:17:52Z","text":"FEFC Collection app: My List page with stars, watch history and Google sign-in cloud sync; Actors & Directors merged into one Home tile."}
 {"ts":"2026-10-21T06:17:53Z","text":"FEFC Collection app: file types now read from Drive itself (videos vs docs fixed), Support docs mixed in as ad tiles, scroll position kept on Back, faster Main Collection."}
 {"ts":"2026-10-21T06:17:54Z","text":"FEFC Collection app: new landscape photos for all actors and directors, 260 new collection covers, corner clip tiles on Home, Genres in a 3x3 layout."}
+{"ts": "2026-10-21T06:38:00Z", "text": "FEFC Collection: intro now plays only Carson's audio track (old synth sounds removed)."}
+{"ts": "2026-10-21T06:38:01Z", "text": "FEFC Collection: Home header moved down with a row of three live clips above it; Actors & Directors label on three lines; My List tile centered star with 'History & Starred', section renamed History."}
+{"ts": "2026-10-21T06:38:02Z", "text": "FEFC Collection: poster tiles show full file names at full brightness; top menu fits on one line and appears on video pages."}
