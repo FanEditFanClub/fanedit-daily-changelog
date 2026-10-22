@@ -66,3 +66,8 @@
 {"ts": "2026-10-21T19:49:21Z", "text": "FEFC Collection update: Spotlight search with Optimus, Home clip tiles and ambient sound, folder sound effects and Back sound, new genre tiles, reordered top bar, audio playback for MP3s, A–Z letter headers, more game poster art, Serenity/GoldenEye fixes, and a request-access prompt for private libraries."}
 {"ts": "2026-10-21T13:40:00Z", "text": "Fixed the 9am collection notifier to honor announcement preconditions: migrated shortcuts are no longer posted as new files. This morning's misfire was cleaned up across Discord (226 posts), X (25), Facebook Page (1), and Threads (1)."}
 {"ts": "2026-10-21T18:28:00Z", "text": "Collection: removed the 'Lost - In The Detail: Intermission - Bad Twin' Parts 41-48 MP3 audiobook files (audio files that didn't belong in the video collection); tonight's resync drops them from the app."}
+
+{"ts":"2026-10-22T04:10:12.749Z","text":"FEFC Collection: Actor and director collection sound effects fixed (Jim Carrey, Nicolas Cage, Adam Sandler, Tom Cruise, Directors), hub-styled Collections and TBC tiles, and removed COLLECTION labels from folder tiles."}
+{"ts":"2026-10-22T04:10:12.749Z","text":"FEFC Collection: Fan Edit Optimus AI search enhanced with semantic vault search for concept queries (e.g. Space Movies)."}
+{"ts":"2026-10-22T04:10:12.749Z","text":"FEFC Collection: New Arrivals section now strictly lists files directly in the root folder, excluding subfolders and To Be Catalogued."}
+{"ts":"2026-10-22T04:10:12.749Z","text":"FEFC Collection: Shuffle Play redesigned as a floating modal with click-outside-to-close, visible top menu and bottom dash controls, and non-stacking history navigation."}
