@@ -80,3 +80,4 @@
 {"ts": "2026-11-01T18:46:16Z", "text": "FEFC Collection: fixed pop-up player that wouldn't close, random intro replays, Fire TV Play, sharper intro on TV, genre pages now list all fan edits; Fire TV app 1.0.2."}
 {"ts": "2026-11-01T19:00:53Z", "text": "FEFC Collection: Easter egg sounds added for 82 more collections, and collection file counts now count only unique videos."}
 {"ts": "2026-11-01T19:04:17Z", "text": "FEFC Collection: added Severance theme and Blade 'only one Blade' folder sounds."}
+{"ts": "2026-11-01T19:24:37Z", "text": "FEFC Collection: all 201 sound effect clips normalised to the same loudness (-16 LUFS)."}
