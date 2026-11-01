@@ -77,3 +77,4 @@
 {"ts": "2026-10-22T22:42:00Z", "text": "Automation: fixed the Facebook group cross-posting to stop dropping posts — scan window widened from 30h to 72h so a post missed by one daily run gets caught by the next, and the seen-posts log is now verified after every write (the silent logging failure behind the Oct 16 and Oct 21 misses)."}
 {"ts": "2026-10-23T15:53:36.888969+00:00", "text": "FEFC Collection: Added Dexter \"Tonight's the night\" quote audio clip when opening Dexter folders and fan edit files."}
 {"ts": "2026-11-01T18:21:35Z", "text": "FEFC Collection: Fire TV app (sideload APK at collection.faneditfanclub.com/firetv/FEFC-Collection.apk) and new Sync My List panel (TV code, QR, 6-digit pair code) deployed."}
+{"ts": "2026-11-01T18:46:16Z", "text": "FEFC Collection: fixed pop-up player that wouldn't close, random intro replays, Fire TV Play, sharper intro on TV, genre pages now list all fan edits; Fire TV app 1.0.2."}
