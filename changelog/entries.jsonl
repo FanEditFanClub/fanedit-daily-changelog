@@ -86,3 +86,4 @@
 {"ts":"2026-11-01T23:46:20Z","text":"FEFC Collection: Fire TV app 1.0.6 with in-app updates, Play opens TV player, D-pad fix, video intro, fan edit ratings, more sounds and photos, mobile search fix."}
 {"ts":"2026-11-02T00:28:15Z","text":"FEFC Collection: typo-proof Fire TV APK links (/tv.apk, any case) and 404 for unknown .apk paths."}
 {"ts":"2026-11-02T01:41:21Z","text":"FEFC Collection: Fire TV app 1.0.7 (versionCode 8) \u2014 intro video, Menu opens search, Check for updates on My List, full-bleed home tile; new release signing key (uninstall+sideload); live on Pages."}
+{"ts": "2026-11-02T01:47:19Z", "text": "FEFC Collection: Fire TV app 1.0.8 (versionCode 9) — opaque full-bleed black leanback banner + larger launcher icons (fixes gray Apps-row frame); home D-pad focus moves play the same move SFX as folders; live on Pages (same release key as 1.0.7)."}
