@@ -117,3 +117,4 @@
 {"ts": "2026-11-04T23:09:34Z", "text": "FEFC Kodi app 0.3.1 Beta: selecting a movie or episode opens its details page first (Play is a button there), and search results open without the keyboard popping back up."}
 {"ts":"2026-11-05T01:04:57Z","text":"FEFC Kodi 0.3.2 Beta: home back to the web app's 3x3 tile grid with Search/Settings/About in a top bar; Read Me no longer spells out links and now says 6,000 files (web Read Me updated too)."}
 {"ts":"2026-11-05T01:13:44Z","text":"FEFC Kodi 0.3.3–0.3.4 Beta: news ticker shows Discord, Facebook, X and Reddit icons like the web app; Link My List QR code now renders on Fire TV and the link text is shortened to fit."}
+{"ts":"2026-11-05T01:24:56Z","text":"FEFC Kodi 0.3.5–0.3.6 Beta: news ticker shows each post's Discord, Facebook, X or Reddit icon right before it, like the web app; Link My List QR code is now a full-colour image on white (fixes the black square on Fire TV), with a web fallback."}
