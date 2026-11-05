@@ -123,3 +123,4 @@
 {"ts":"2026-11-05T01:51:18Z","text":"FEFC Kodi app 0.3.9 Beta: Home tiles now show collection and file counts like the web app, and My List has a star with your starred count."}
 {"ts":"2026-11-05T02:09:43Z","text":"FEFC Kodi app 0.3.10 Beta: Home tile counts now match the web app (Main Collection about 6,285 files, no double counting), and the app icon is back by the update button."}
 {"ts":"2026-11-05T02:15:28Z","text":"FEFC Kodi app 0.3.11 Beta: fixes the blank FEFC icon/banner on the Fire TV home and apps row (each update now has its own Android version number)."}
+{"ts":"2026-11-05T02:26:07Z","text":"FEFC Kodi app 0.3.12 Beta: Fire TV home tile banner set up like the original FEFC Fire TV app, so older Fire Sticks show FEFC art instead of a grey placeholder."}
