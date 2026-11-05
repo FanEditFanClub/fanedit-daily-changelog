@@ -128,3 +128,5 @@
 {"ts":"2026-11-05T03:04:42Z","text":"FEFC Kodi app 0.3.14 Beta: every release now builds two apps from the same source: the existing FEFC app keeps updating as before, and a new separate FEFC app for new installs installs alongside regular Kodi."}
 {"ts":"2026-11-05T03:13:12Z","text":"FEFC Kodi app 0.3.15 Beta: the new FEFC app (FEFC.apk) now includes 64-bit Kodi so it installs on Pixel phones and tablets; the Fire TV app is unchanged."}
 {"ts":"2026-11-05T03:26:35Z","text":"FEFC Kodi app 0.3.16 Beta: fixes the launch crash in the new phone/tablet FEFC app (now app ID com.fefc.kodi); Fire TV app unchanged."}
+{"ts": "2026-11-05T03:42:26Z", "text": "FEFC Kodi 0.3.17 Beta: full file titles like the web app (e.g. \"- Fan Edit\" endings kept); more room for long titles."}
+{"ts": "2026-11-05T03:42:26Z", "text": "FEFC Kodi 0.3.18: LCARS details page like the web app; fan edit synopsis, ratings (IFDB, Movies Remastered) and changes list; Drive shortcut folders open as folders; Support Us / Read First docs shown in folders."}
