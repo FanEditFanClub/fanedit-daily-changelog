@@ -126,3 +126,4 @@
 {"ts":"2026-11-05T02:26:07Z","text":"FEFC Kodi app 0.3.12 Beta: Fire TV home tile banner set up like the original FEFC Fire TV app, so older Fire Sticks show FEFC art instead of a grey placeholder."}
 {"ts":"2026-11-05T02:30:16Z","text":"FEFC Kodi app 0.3.13 Beta: Fire Stick home tile uses a plain FEFC icon (no more grey grid), and app updates download in one uninterrupted flow that resumes and retries by itself."}
 {"ts":"2026-11-05T03:04:42Z","text":"FEFC Kodi app 0.3.14 Beta: every release now builds two apps from the same source: the existing FEFC app keeps updating as before, and a new separate FEFC app for new installs installs alongside regular Kodi."}
+{"ts":"2026-11-05T03:13:12Z","text":"FEFC Kodi app 0.3.15 Beta: the new FEFC app (FEFC.apk) now includes 64-bit Kodi so it installs on Pixel phones and tablets; the Fire TV app is unchanged."}
