@@ -130,3 +130,4 @@
 {"ts":"2026-11-05T03:26:35Z","text":"FEFC Kodi app 0.3.16 Beta: fixes the launch crash in the new phone/tablet FEFC app (now app ID com.fefc.kodi); Fire TV app unchanged."}
 {"ts": "2026-11-05T03:42:26Z", "text": "FEFC Kodi 0.3.17 Beta: full file titles like the web app (e.g. \"- Fan Edit\" endings kept); more room for long titles."}
 {"ts": "2026-11-05T03:42:26Z", "text": "FEFC Kodi 0.3.18: LCARS details page like the web app; fan edit synopsis, ratings (IFDB, Movies Remastered) and changes list; Drive shortcut folders open as folders; Support Us / Read First docs shown in folders."}
+{"ts": "2026-11-05T03:50:01Z", "text": "FEFC Kodi 0.3.19 Beta: franchise sound clip on every file details page; sound on/off toggle with speaker icon; search/settings icons; Home cleanup (Exit, logo, version text, Community label removed); update button shows Up To Date / Update Available and always checks fresh."}
