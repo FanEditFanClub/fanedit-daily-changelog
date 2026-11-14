@@ -147,3 +147,4 @@
 {"ts": "2026-11-11T13:29:35Z", "text": "FEFC Kodi 0.6 Beta (build 48) shipped for Fire TV and phone/tablet: Back works on every screen again, the bottom menu is reachable from folders, Search is one bar with Optimus looping until you type, poster titles are larger and wrap, New Arrivals opens faster, videos without posters get fallback art, and QR codes carry the FEFC mark."}
 {"ts": "2026-11-12T13:41:00Z", "text": "FEFC app 0.6.5 Beta shipped: About entries listed directly in Settings, FEFC logo baked into QR codes, Link My List shows FanEditFanClub.com/MyList, Samsung widget versioning fixed."}
 {"ts": "2026-11-12T13:50:00Z", "text": "faneditfanclub.com/MyList now redirects to the collection's Link My List page."}
+{"ts": "2026-11-14T11:29:27Z", "text": "FEFC 0.6.6 Beta: Claude code-review fixes (hundreds of bug fixes across the Kodi app), Mac full update popup, TV sign-in name fix and link-code rate limit."}
