@@ -151,3 +151,4 @@
 {"ts": "2026-11-14T11:32:42Z", "text": "FEFC web app: worker fixes live (TV sign-in name decoding, link-code rate limit, bad stream address error)."}
 {"ts": "2026-11-14T11:48:47Z", "text": "FEFC web app: the top menu updates when a details page opens or closes, device sign-in restore is protected and rate limited, and the Kevin Costner sound set plays every clip."}
 {"ts": "2026-11-14T12:35:38Z", "text": "FEFC: Google sign-in with a TV code (google.com/device) now available on Fire TV, web and Kodi."}
+{"ts": "2026-11-14T23:10:56Z", "text": "FEFC for Mac (FEFC-Mac.dmg for Apple Silicon, FEFC-Mac-Intel.dmg for Intel) now ships with every Fire TV/Android release at the same version, and the Kodi add-on repo serves the current add-on (1.5.15) automatically."}
