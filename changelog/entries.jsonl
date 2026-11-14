@@ -148,3 +148,4 @@
 {"ts": "2026-11-12T13:41:00Z", "text": "FEFC app 0.6.5 Beta shipped: About entries listed directly in Settings, FEFC logo baked into QR codes, Link My List shows FanEditFanClub.com/MyList, Samsung widget versioning fixed."}
 {"ts": "2026-11-12T13:50:00Z", "text": "faneditfanclub.com/MyList now redirects to the collection's Link My List page."}
 {"ts": "2026-11-14T11:29:27Z", "text": "FEFC 0.6.6 Beta: Claude code-review fixes (hundreds of bug fixes across the Kodi app), Mac full update popup, TV sign-in name fix and link-code rate limit."}
+{"ts": "2026-11-14T11:32:42Z", "text": "FEFC web app: worker fixes live (TV sign-in name decoding, link-code rate limit, bad stream address error)."}
