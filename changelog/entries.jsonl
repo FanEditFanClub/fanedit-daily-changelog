@@ -150,3 +150,4 @@
 {"ts": "2026-11-14T11:29:27Z", "text": "FEFC 0.6.6 Beta: Claude code-review fixes (hundreds of bug fixes across the Kodi app), Mac full update popup, TV sign-in name fix and link-code rate limit."}
 {"ts": "2026-11-14T11:32:42Z", "text": "FEFC web app: worker fixes live (TV sign-in name decoding, link-code rate limit, bad stream address error)."}
 {"ts": "2026-11-14T11:48:47Z", "text": "FEFC web app: the top menu updates when a details page opens or closes, device sign-in restore is protected and rate limited, and the Kevin Costner sound set plays every clip."}
+{"ts": "2026-11-14T12:35:38Z", "text": "FEFC: Google sign-in with a TV code (google.com/device) now available on Fire TV, web and Kodi."}
