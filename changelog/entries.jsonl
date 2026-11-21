@@ -161,3 +161,4 @@
 {"ts": "2026-11-21T19:34:46Z", "text": "Paused the primary FanEditFanClub Daily Notifier, Featured Posts, and weekly welcome GitHub Actions workflows (billing block) until Dec 1, when usage resets; FanEditFanClub2 workflows no-op from Dec 1 00:00 ET."}
 {"ts": "2026-11-21T19:34:46Z", "text": "FanEditFanClub2 weekly Discord welcome: schedule registered on the imported default branch, Node 24 Actions, and a Dec 1 handoff guard. It posts on Mondays (next: Nov 23 and Nov 30), not Sundays."}
 {"ts": "2026-11-21T19:47:19Z", "text": "Buffer 429 handling now caps Retry-After waits at 120 seconds and the notifier/featured workflows have job timeouts, so a long rate-limit window cannot hang a run."}
+{"ts": "2026-11-21T19:53:50Z", "text": "FEFC app 0.6.6 Beta (build 69, Fire TV, Android and Mac): tapping or clicking anywhere on a video's poster or title now opens that video, and History records a video the moment you pick Play, Open in VLC or Open in Google Drive."}
